@@ -2,7 +2,7 @@ The project SB-foods is a food ordering system build on MERN stack and this is d
 # viknesh K S
 # yugendran B
 # yogeshwararan S
-# rahul C
+# rahul Cncd
 ![front pag](<Screenshot (333).png>)
 ![explore](<Screenshot (334).png>)
 ![menu](<Screenshot (335).png>)
